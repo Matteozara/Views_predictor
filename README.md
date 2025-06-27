@@ -37,9 +37,9 @@ The project has been test with 63 songs of Bad Bunny taken by 5 of his most famo
 ### Results on Validation set
 The results obtained in the Validation set:
 <br>
-Songs corrected classified:  36  on a total of  41
+<b>Songs corrected classified:  36  on a total of  41</b>
 <br>
-Accuracy:  0.8780487804878049
+<b>Accuracy</b>:  <b>0.8780487804878049</b>
 <br>
 total loss:  1.2867190837860107  and loss per song:  0.031383392287463674
 <br>
@@ -48,6 +48,7 @@ Tot predicted &lt;300M views: 24 on a total of &lt;300M songs: 27
 Tot predicted >300M views:  17 on a total of >300M soongs:  14
 <br>
 The confusion matrix obtained is: 
+<br>
 
 ![Confusion Matrix for Validation set](assets/valid_cm.png)
 
