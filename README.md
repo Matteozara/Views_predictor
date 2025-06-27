@@ -50,6 +50,7 @@ Tot predicted &lt;300M views: 24 on a total of &lt;300M songs: 27
 <br>
 Tot predicted >300M views:  17 on a total of >300M soongs:  14
 <br>
+<br>
 The confusion matrix obtained is: 
 <br>
 <br>
@@ -62,8 +63,28 @@ The confusion matrix obtained is:
 
 
 ### Results on Test set
-Then I tested the model in the Test set, made by 
-![Confusion Matrix for Validation set](assets/valid_cm.png)
+The results obtained in the Test set:
+<br>
+<br>
+<b>Songs corrected classified:  36  on a total of  48</b>
+<br>
+<br>
+<b>Accuracy</b>:  <b>0.75</b>
+<br>
+<br>
+total loss:  2.564556300640106  and loss per song:  0.05342825626333555
+<br>
+Tot predicted &lt;300M views:  28 on a total of &lt;300M soongs:  24
+<br>
+Tot predicted >300M views:  20 on a total of >300M soongs:  24
+<br>
+<br>
+The confusion matrix obtained is: 
+<br>
+<br>
+
+
+![Confusion Matrix for Validation set](assets/test_cm.png)
 
 
 
