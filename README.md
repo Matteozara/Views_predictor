@@ -4,15 +4,19 @@ This repo contains the code to analyze songs (better if they are from the same a
 
 <br>
 <br>
+
 <!-- TABLE OF CONTENTS -->
   ### Table of contents
   <ol>
     <li>
-      <a href="#my_test">My test</a>
+      <a href="#my-test">My test</a>
       <ul>
-        <li><a href="#results_on_validation_set">Results on Validation set</a></li>
-        <li><a href="#results_on_test_set">Results on Test set</a></li>
+        <li><a href="#results-on-validation-set">Results on Validation set</a></li>
+        <li><a href="#results-on-test-set">Results on Test set</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#contacts">Contacts</a>
     </li>
   </ol>
 
@@ -28,11 +32,14 @@ The project has been test with 63 songs of Bad Bunny setting a threshold of 300.
     <li>Number of epochs: 50</li>
   </ol>
 
+<br>
+<br>
 
 ### Results on Validation set
 The results obtained in the Validation set are shown in this matrix:
 ![Confusion Matrix for Validation set](assets/valid_cm.png)
 
+<br>
 <br>
 
 
