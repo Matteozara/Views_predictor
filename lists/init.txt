@@ -1,1 +1,0 @@
-Here will be created the lists of tensors for the Train and Valid sets. (Respectively: _labels = Views, _classes = binary (0-1), _mels = 15sec of song in mel spectrogram)
